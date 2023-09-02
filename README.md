@@ -70,9 +70,9 @@ To receive notifications, you need to specify your own ntfy server URL in the sc
 If you are not sure on how to setup your own ntfy server, follow the youtube link below:
 
 https://youtu.be/poDIT2ruQ9M?si=XP2fcnDXnR0CaS_M
-` Title: how did I NOT know about this?
+Title: how did I NOT know about this?
 Author: NetworkChuck
-Details: Setting up an Ntfy service for local server or cloud(Linode)`
+Details: Setting up an Ntfy service for local server or cloud(Linode)
 
 ## Customization:
 
